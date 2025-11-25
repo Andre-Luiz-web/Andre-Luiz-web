@@ -5,7 +5,7 @@ Hey guys !! Welcome to my GIThub
 
 * 🌍  I'm based in Brasília
 * 🧠  I'm learning JavaScript
-* ⚡  Estou Cursando Engenharia de Software // 3° Semestre
+* ⚡  Estou Cursando Engenharia de Software // 5° Semestre
 
 ### Skills
 
