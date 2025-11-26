@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Hello world!!, My name is André Luiz.<br><br>Olá Mundo!!, eu me chamo André Luiz</h2>
+<h2 align="left">Hello world!!, My name is André Luiz.</h2>
 
 ###
 
@@ -49,5 +49,3 @@
 </picture>
 
 ###
-
-
