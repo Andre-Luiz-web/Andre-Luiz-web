@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=97&section=header&reversal=false&text=Hey%20%F0%9F%91%8BWhat's%20Up?&fontSize=49&fontColor=#F8F8FF&fontAlign=53&fontAlignY=49&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&descSize=15&descAlign=50&descAlignY=50&textBg=false&theme=dark"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=97&section=header&reversal=false&text=Hey%20%F0%9F%91%8BWhat's%20Up?&fontSize=49&fontColor=F0F8FF&fontAlign=53&fontAlignY=49&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&descSize=15&descAlign=50&descAlignY=50&textBg=false&color=random"  />
 </div>
 
 ###
@@ -35,9 +35,17 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="www.linkedin.com/in/andre-sousa2026" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andre-Luiz-web/Andre-Luiz-web/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andre-Luiz-web/Andre-Luiz-web/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Andre-Luiz-web/Andre-Luiz-web/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
